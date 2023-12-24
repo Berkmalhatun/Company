@@ -59,7 +59,8 @@ git clone https://github.com/Berkmalhatun/Company
 4. Kullanmış olduğunuz IDE'yi açın  
 5. Klonlamış olduğunuz dosyayı IDE üzerinden açın.
 6. Dosya açıldığında bağımlılıklar yüklenene kadar bekleyin.
-7. CompanyApplication'a sağ tıklayıp Run diyerek çalıştırabilirsiniz.## API Dokümantasyonu ve Test Etme
+7. CompanyApplication'a sağ tıklayıp Run diyerek çalıştırabilirsiniz.
+ ## API Dokümantasyonu ve Test Etme
 
 Bu projede, API endpoint'lerinin dokümantasyonu ve test edilmesi için [Swagger UI](http://localhost:8085/swagger-ui/index.html) kullanılmaktadır. Swagger UI, RESTful API'lerinizi kolayca keşfetmenize, kullanmanıza ve test etmenize olanak tanıyan interaktif bir arayüzdür.
 
